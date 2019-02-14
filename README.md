@@ -1,4 +1,7 @@
-# Deep-Reinforcement-Learning
+# 深度强化学习 论文跟进
+
+### [综述 & Baseline算法](https://github.com/PaperCommunity/Deep-Reinforcement-Learning/tree/master/Overview%26baseline)
+- 强化学习论文综述和baseline算法及改进。
 
 
 ### [Imitation Learning](https://github.com/PaperCommunity/Deep-Reinforcement-Learning/tree/master/ImitationLearning)
