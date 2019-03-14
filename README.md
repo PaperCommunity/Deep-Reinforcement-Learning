@@ -13,4 +13,4 @@
 
 ### [Interdiscipline](https://github.com/PaperCommunity/Deep-Reinforcement-Learning/tree/master/Interdiscipline)
 
-- 很多paper不单研究某个方向，例如CV，nlp结合强化学习，神经网络的并行训练，自适应调参等等。
+- 很多paper不单研究某个方向，例如CV/nlp结合强化学习，神经网络的并行训练，自适应调参等等。
