@@ -10,3 +10,7 @@
 ### [Multi-Agent RL](https://github.com/PaperCommunity/Deep-Reinforcement-Learning/tree/master/Multi-Agent)
 
 - 多智能体强化学习是多智能体系统与强化学习的结合，主要研究多智能体在同一环境下面对不同任务的决策问题。
+
+### [Interdiscipline](https://github.com/PaperCommunity/Deep-Reinforcement-Learning/tree/master/Interdiscipline)
+
+- 很多paper不单研究某个方向，例如CV，nlp结合强化学习，神经网络的并行训练，自适应调参等等。
